@@ -7,7 +7,7 @@ export const siteConfig = {
   name: 'TechAI',
   description: 'Agência especializada em soluções de IA e tecnologia',
   url: 'https://techai.vercel.app',
-  phone: '+55 11 99999-0000',
+  phone: '+55 21 99521-1289',
   email: 'contato@techai.com.br',
   social: {
     twitter: '#',
